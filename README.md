@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Video Game API implementing SWR - React APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
